@@ -1,0 +1,22 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {polish}{}
+\contentsline {chapter}{\numberline {1}Wprowadzenie}{7}%
+\contentsline {section}{\numberline {1.1}Cele pracy}{7}%
+\contentsline {subsection}{\numberline {1.1.1}Jakiś tytuł}{7}%
+\contentsline {subsubsection}{\numberline {1.1.1.1}Jakiś tytuł w subsubsection}{7}%
+\contentsline {subsection}{\numberline {1.1.2}Jakiś tytuł 2}{7}%
+\contentsline {section}{\numberline {1.2}Zawartość pracy}{7}%
+\contentsline {chapter}{\numberline {2}Pierwszy dokument}{9}%
+\contentsline {section}{\numberline {2.1}Struktura dokumentu}{9}%
+\contentsline {section}{\numberline {2.2}Kompilacja}{10}%
+\contentsline {section}{\numberline {2.3}Narzędzia}{10}%
+\contentsline {section}{\numberline {2.4}Przygotowanie dokumentu}{11}%
+\contentsline {chapter}{\numberline {3}Przykłady elementów pracy dyplomowej}{13}%
+\contentsline {section}{\numberline {3.1}Liczba}{13}%
+\contentsline {section}{\numberline {3.2}Rysunek}{13}%
+\contentsline {section}{\numberline {3.3}Tabela}{13}%
+\contentsline {section}{\numberline {3.4}Wzory matematyczne}{13}%
+\contentsline {chapter}{\numberline {4}Testy}{15}%
+\contentsline {section}{\numberline {4.1}Test URL-a}{15}%
+\contentsline {section}{\numberline {4.2}Test dzielenia wdów}{16}%
+\contentsline {subsection}{\numberline {4.2.1}Lorem ipsum}{17}%
